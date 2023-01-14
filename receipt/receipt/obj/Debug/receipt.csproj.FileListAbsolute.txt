@@ -1,0 +1,9 @@
+C:\Users\Acer\Desktop\receipt\receipt\bin\Debug\receipt.exe.config
+C:\Users\Acer\Desktop\receipt\receipt\bin\Debug\receipt.exe
+C:\Users\Acer\Desktop\receipt\receipt\bin\Debug\receipt.pdb
+C:\Users\Acer\Desktop\receipt\receipt\obj\Debug\receipt.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\receipt\receipt\obj\Debug\receipt.Form1.resources
+C:\Users\Acer\Desktop\receipt\receipt\obj\Debug\receipt.Properties.Resources.resources
+C:\Users\Acer\Desktop\receipt\receipt\obj\Debug\receipt.csproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\receipt\receipt\obj\Debug\receipt.exe
+C:\Users\Acer\Desktop\receipt\receipt\obj\Debug\receipt.pdb
